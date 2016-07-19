@@ -14,3 +14,13 @@ html,body {
   height:50%;
   width:100%;
 }
+
+
+#container {
+   width: 990px;
+   height: 640px;
+}
+
+#container img {
+   width: 100%;
+}
